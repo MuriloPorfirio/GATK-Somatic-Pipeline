@@ -153,7 +153,3 @@ Additional documentation may be added later to describe exact software versions,
 - This repository prioritizes **technical transparency** over workflow abstraction.
 - Paths and infrastructure details reflect the original execution environment.
 - Some steps were adapted during execution as infrastructure constraints were identified.
-
-## License
-
-License information has not yet been added.
