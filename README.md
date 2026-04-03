@@ -153,3 +153,10 @@ Additional documentation may be added later to describe exact software versions,
 - This repository prioritizes **technical transparency** over workflow abstraction.
 - Paths and infrastructure details reflect the original execution environment.
 - Some steps were adapted during execution as infrastructure constraints were identified.
+
+## Limitations
+
+- This repository reflects a benchmarking-oriented workflow rather than a production-ready pipeline.
+- Scripts were developed for a specific execution environment and may require adaptation.
+- Paths, infrastructure assumptions, and external dependencies are not fully generalized.
+- Some required data and preparation steps are external to this repository.
